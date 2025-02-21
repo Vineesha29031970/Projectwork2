@@ -37,16 +37,19 @@ IDE: Use of VSCode or Jupyter Notebook for coding, debugging, and visualization.
 
 Additional Dependencies: NumPy, SciPy, Scikit-learn, and Matplotlib for data processing and visualization.
 
+
 ## System Architecture
 
 ## Output
 Output1 - Original CT Scan Image
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/9d6c8ea2-e398-4c43-8dbb-635e416ec5fc" />
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/9d6c8ea2-e398-4c43-8dbb-635e416ec5fc" />
+
+
 
 Output2 - Segmented Image
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/3abe497e-0a4c-469c-9e57-1be40dcbb0f5" />
+<img width="230" alt="image" src="https://github.com/user-attachments/assets/3abe497e-0a4c-469c-9e57-1be40dcbb0f5" />
 
 
 ## Results and Impact
