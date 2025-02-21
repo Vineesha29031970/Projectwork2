@@ -40,6 +40,10 @@ Additional Dependencies: NumPy, SciPy, Scikit-learn, and Matplotlib for data pro
 
 ## System Architecture
 
+![image](https://github.com/user-attachments/assets/44ae1c1c-4d79-4b9c-8edd-11ba21be340d)
+
+
+
 ## Output
 
 Output1 - Original CT Scan Image
