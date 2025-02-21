@@ -52,10 +52,18 @@ Output1 - Original CT Scan Image
 
 
 
+
+
+
+
+
 Output2 - Segmented Image
 
 
 <img width="230" alt="image" src="https://github.com/user-attachments/assets/3abe497e-0a4c-469c-9e57-1be40dcbb0f5" />
+
+
+
 
 
 ## Results and Impact
