@@ -40,7 +40,7 @@ Additional Dependencies: NumPy, SciPy, Scikit-learn, and Matplotlib for data pro
 
 ## System Architecture
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/e913c43b-b0df-4179-a511-91d90e0c2d02" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e913c43b-b0df-4179-a511-91d90e0c2d02" />
 
 
 
