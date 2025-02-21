@@ -1,4 +1,4 @@
-## Title of the Project
+
 ## KIDNEY DISEASE IMAGE SEGMENTATION USING GAN MODEL
 
 ## Description
